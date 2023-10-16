@@ -6,3 +6,4 @@ c = random.randint(a,b)
 print(c)
 for i in range(2):
     print(c+1)
+    print("testing git graph")
