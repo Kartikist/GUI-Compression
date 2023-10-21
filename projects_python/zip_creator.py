@@ -5,5 +5,5 @@ def make_archive(filepath, folderpath):
         for filepath in filepath:
             file.write(filepath)
             
-if __name__ == '__main__':
-    def make_archive()
+# if __name__ == '__main__':
+    # def make_archive()
